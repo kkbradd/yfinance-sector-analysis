@@ -40,7 +40,7 @@ The project results demonstrate how various machine learning models accurately p
 
 -Classification Model Accuracy: 88%
 
-##Development Process
+## Development Process
 The project development process includes the following steps:
 
 -Data Collection: Stock data is collected using the Yahoo Finance API.
