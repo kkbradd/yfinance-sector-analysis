@@ -44,8 +44,13 @@ The project results demonstrate how various machine learning models accurately p
 The project development process includes the following steps:
 
 -Data Collection: Stock data is collected using the Yahoo Finance API.
+
 -Data Preprocessing: The collected data is cleaned and prepared for feature extraction.
+
 -Feature Extraction: Various statistical and mathematical operations are applied to obtain features from the data.
+
 -Model Training: Various machine learning models are trained using the Scikit-learn library.
+
 -Model Evaluation: The trained models are evaluated on the test dataset, and performance metrics are calculated.
+
 -Results Analysis: The obtained results are analyzed and interpreted.
