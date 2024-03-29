@@ -1,0 +1,243 @@
+,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
+0,WMT,Walmart Inc.,488.48B,-,14948052,648.13B
+1,PG,The Procter & Gamble Company,380.13B,0.24%,3152212,83.93B
+2,COST,Costco Wholesale Corporation,316.73B,3.19%,3558777,248.83B
+3,KO,The Coca-Cola Company,259.78B,0.43%,9622103,45.75B
+4,PEP,"PepsiCo, Inc.",226.41B,-0.12%,5875853,91.47B
+5,FMX,"Fomento Económico Mexicano, SAB de CV",219.81B,0.09%,568941,34.56B
+6,PM,Philip Morris International Inc.,146.57B,0.28%,3582617,35.17B
+7,BUD,Anheuser-Busch InBev SA/NV,125.23B,0.32%,771956,59.38B
+8,UL,Unilever PLC,123.66B,0.59%,3096009,66.90B
+9,MDLZ,"Mondelez International, Inc.",97.49B,-0.91%,5492507,36.02B
+10,DEO,Diageo plc,83.77B,-0.53%,458743,21.66B
+11,TGT,Target Corporation,78.36B,-0.30%,1907570,107.41B
+12,MO,"Altria Group, Inc.",75.26B,0.87%,12766177,24.48B
+13,CL,Colgate-Palmolive Company,72.54B,0.71%,2924068,19.46B
+14,BTI,British American Tobacco p.l.c.,67.18B,1.53%,5821952,34.54B
+15,MNST,Monster Beverage Corporation,61.96B,1.12%,3706062,7.14B
+16,EL,The Estée Lauder Companies Inc.,53.59B,-1.20%,1844322,15.16B
+17,STZ,"Constellation Brands, Inc.",47.90B,-0.05%,876127,9.82B
+18,KMB,Kimberly-Clark Corporation,42.71B,-0.06%,1234812,20.43B
+19,KHC,The Kraft Heinz Company,42.43B,-1.09%,6826478,26.64B
+20,HSY,The Hershey Company,40.59B,-1.28%,1957488,11.16B
+21,ABEV,Ambev S.A.,40.08B,0.39%,14785807,16.37B
+22,SYY,Sysco Corporation,39.99B,0.14%,1482897,77.51B
+23,KR,The Kroger Co.,39.98B,0.58%,5800559,150.04B
+24,KDP,Keurig Dr Pepper Inc.,39.63B,-0.03%,6877209,14.81B
+25,KVUE,Kenvue Inc.,38.58B,-0.05%,10255316,15.44B
+26,GIS,"General Mills, Inc.",37.29B,0.09%,3080304,20.20B
+27,DG,Dollar General Corporation,34.97B,1.19%,2806939,39.04B
+28,CCEP,Coca-Cola Europacific Partners PLC,32.86B,-0.06%,1094660,20.34B
+29,DLTR,"Dollar Tree, Inc.",32.46B,0.46%,3173000,29.68B
+30,ADM,Archer-Daniels-Midland Company,29.29B,3.93%,10911851,96.90B
+31,BF.A,Brown-Forman Corporation,25.98B,-0.84%,46216,4.26B
+32,CHD,"Church & Dwight Co., Inc.",25.32B,0.63%,702579,5.87B
+33,KOF,"Coca-Cola FEMSA, SAB de CV",20.71B,1.90%,205300,597.02M
+34,TSN,"Tyson Foods, Inc.",19.90B,-0.61%,1627287,52.94B
+35,CELH,"Celsius Holdings, Inc.",19.86B,6.75%,4102516,1.32B
+36,CLX,The Clorox Company,19.32B,0.96%,556329,7.31B
+37,MKC.V,"McCormick & Company, Incorporated",18.83B,-1.07%,1050,6.66B
+38,MKC,"McCormick & Company, Incorporated",18.75B,-1.33%,1468259,6.66B
+39,HRL,Hormel Foods Corporation,18.73B,-0.09%,1581315,12.14B
+40,K,Kellanova Co,18.51B,-0.55%,2547868,13.12B
+41,EDU,New Oriental Education & Technology Group Inc.,14.85B,0.48%,1749016,3.58B
+42,LW,"Lamb Weston Holdings, Inc.",14.73B,0.88%,1234333,6.35B
+43,TAP,Molson Coors Beverage Company,14.01B,-0.58%,961201,11.70B
+44,TAP.A,Molson Coors Beverage Company,13.72B,-,21,11.70B
+45,CAG,"Conagra Brands, Inc.",13.64B,-0.32%,2182381,12.17B
+46,BG,Bunge Limited,13.63B,-0.15%,1381019,59.54B
+47,SJM,The J. M. Smucker Company,12.91B,0.94%,1179753,8.21B
+48,USFD,US Foods Holding Corp.,12.90B,1.22%,904265,35.60B
+49,CPB,Campbell Soup Company,12.82B,-,1767221,9.27B
+50,ACI,"Albertsons Companies, Inc.",12.02B,0.43%,1438134,79.16B
+51,PFGC,Performance Food Group Company,11.73B,0.33%,860414,57.87B
+52,COTY,Coty Inc.,11.40B,-0.55%,1632340,6.01B
+53,ELF,"e.l.f. Beauty, Inc.",10.78B,5.84%,1178365,890.15M
+54,BJ,"BJ's Wholesale Club Holdings, Inc.",9.91B,-1.62%,1437155,19.54B
+55,TAL,TAL Education Group,7.98B,3.04%,7201338,1.33B
+56,PPC,Pilgrim's Pride Corporation,7.78B,1.58%,1370625,17.36B
+57,COKE,"Coca-Cola Consolidated, Inc.",7.74B,-0.62%,35366,6.65B
+58,INGR,Ingredion Incorporated,7.71B,0.26%,334318,8.16B
+59,BRBR,"BellRing Brands, Inc.",7.59B,2.68%,676471,1.73B
+60,DAR,Darling Ingredients Inc.,6.96B,0.46%,1025038,6.79B
+61,SFM,"Sprouts Farmers Market, Inc.",6.33B,0.27%,979492,6.84B
+62,POST,"Post Holdings, Inc.",6.25B,0.81%,404268,7.39B
+63,LANC,Lancaster Colony Corporation,5.65B,-0.71%,186413,1.87B
+64,BRFS,BRF S.A.,5.54B,1.80%,8813244,10.17B
+65,FRPT,"Freshpet, Inc.",5.26B,1.91%,476205,766.90M
+66,FLO,"Flowers Foods, Inc.",4.87B,0.26%,528119,5.09B
+67,FIZZ,National Beverage Corp.,4.66B,-0.80%,131823,1.18B
+68,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",4.63B,-1.23%,546871,2.00B
+69,IPAR,"Inter Parfums, Inc.",4.42B,-1.39%,157753,1.32B
+70,ASAI,Sendas Distribuidora S.A.,4.09B,3.63%,133688,13.66B
+71,LOPE,"Grand Canyon Education, Inc.",3.99B,-0.44%,93906,960.90M
+72,SAM,"The Boston Beer Company, Inc.",3.63B,-1.35%,98378,2.01B
+73,SMPL,The Simply Good Foods Company,3.36B,0.62%,562032,1.25B
+74,NWL,Newell Brands Inc.,3.26B,1.06%,4059826,8.13B
+75,NOMD,Nomad Foods Limited,3.23B,0.66%,289225,3.38B
+76,GHC,Graham Holdings Company,3.23B,0.44%,9667,4.41B
+77,HIMS,"Hims & Hers Health, Inc.",3.13B,1.04%,3076432,872.00M
+78,RLX,RLX Technology Inc.,2.96B,2.15%,6435332,183.64M
+79,HELE,Helen of Troy Limited,2.96B,-1.26%,141258,2.00B
+80,CALM,"Cal-Maine Foods, Inc.",2.83B,1.45%,928210,2.67B
+81,JJSF,J&J Snack Foods Corp.,2.80B,0.83%,59008,1.56B
+82,LRN,"Stride, Inc.",2.64B,0.93%,754550,1.94B
+83,PRMW,Primo Water Corporation,2.64B,3.20%,1123334,1.77B
+84,GO,Grocery Outlet Holding Corp.,2.62B,0.91%,1081669,3.97B
+85,CENTA,Central Garden & Pet Company,2.60B,3.18%,209921,3.32B
+86,CENT,Central Garden & Pet Company,2.59B,3.20%,112311,3.32B
+87,AKO.B,Embotelladora Andina S.A.,2.55B,0.31%,2711,3.12B
+88,PSMT,"PriceSmart, Inc.",2.54B,-0.49%,56380,4.52B
+89,SPB,"Spectrum Brands Holdings, Inc.",2.54B,0.55%,201790,2.90B
+90,STRA,"Strategic Education, Inc.",2.52B,0.06%,75270,1.13B
+91,TBBB,BBB Foods Inc.,2.38B,-0.38%,185615,1.94B
+92,COUR,"Coursera, Inc.",2.34B,-2.08%,645024,635.76M
+93,SOVO,"Sovos Brands, Inc.",2.34B,0.13%,6843065,1.02B
+94,TR,"Tootsie Roll Industries, Inc.",2.28B,0.09%,72858,769.37M
+95,DNUT,"Krispy Kreme, Inc.",2.18B,-1.79%,670818,1.69B
+96,CCU,Compania Cervecerias Unidas S.A.,2.17B,-0.42%,97275,3.19B
+97,AKO.A,Embotelladora Andina S.A.,2.16B,0.25%,294,3.12B
+98,LAUR,"Laureate Education, Inc.",2.14B,-,374136,1.48B
+99,THS,"TreeHouse Foods, Inc.",2.02B,1.99%,439212,3.43B
+100,ATGE,Adtalem Global Education Inc.,1.96B,-0.10%,259332,1.50B
+101,EPC,Edgewell Personal Care Company,1.90B,1.32%,276521,2.27B
+102,MGPI,"MGP Ingredients, Inc.",1.88B,0.70%,206348,836.52M
+103,ANDE,"The Andersons, Inc.",1.86B,-0.30%,131958,14.75B
+104,AFYA,Afya Limited,1.83B,1.52%,115727,547.10M
+105,GOTU,Gaotu Techedu Inc.,1.76B,9.71%,4532412,417.60M
+106,VGR,Vector Group Ltd.,1.75B,0.81%,893681,1.42B
+107,UDMY,"Udemy, Inc.",1.75B,0.54%,617827,728.94M
+108,WMK,"Weis Markets, Inc.",1.74B,-0.91%,66302,4.70B
+109,UTZ,"Utz Brands, Inc.",1.47B,2.29%,1103544,1.44B
+110,CHEF,"The Chefs' Warehouse, Inc.",1.45B,1.12%,344366,3.43B
+111,IMKTA,"Ingles Markets, Incorporated",1.43B,-1.38%,76027,5.88B
+112,COCO,"The Vita Coco Company, Inc.",1.42B,0.80%,418421,493.61M
+113,UVV,Universal Corporation,1.24B,0.66%,254559,2.67B
+114,JBSS,"Sanfilippo (John B.) & Son, Inc",1.19B,0.25%,51504,998.08M
+115,FDP,Fresh Del Monte Produce Inc.,1.18B,0.53%,118134,4.32B
+116,KLG,WK Kellogg Co,1.17B,5.16%,1093885,2.76B
+117,PRDO,Perdoceo Education Corporation,1.16B,-0.74%,484278,710.00M
+118,DOLE,Dole plc,1.12B,0.34%,294096,8.25B
+119,AGRO,Adecoagro S.A.,1.09B,0.20%,224848,1.41B
+120,NAPA,"The Duckhorn Portfolio, Inc.",1.05B,-1.75%,1687629,396.89M
+121,BRCC,BRC Inc.,1.04B,-2.73%,1506335,369.59M
+122,HLF,Herbalife Nutrition Ltd.,953.91M,-7.39%,1223738,5.06B
+123,USNA,"USANA Health Sciences, Inc.",942.78M,-0.57%,80414,921.01M
+124,BGS,"B&G Foods, Inc.",897.88M,-2.89%,779774,2.06B
+125,EWCZ,"European Wax Center, Inc.",881.80M,-7.07%,633591,221.02M
+126,VITL,"Vital Farms, Inc.",871.44M,0.05%,398704,471.86M
+127,HAIN,"The Hain Celestial Group, Inc.",849.81M,-2.85%,642872,1.78B
+128,AVO,"Mission Produce, Inc.",845.20M,12.15%,799624,999.10M
+129,CHGG,"Chegg, Inc.",844.18M,-2.20%,1268813,716.30M
+130,WEST,"Westrock Coffee Company, LLC",796.75M,0.99%,242211,877.47M
+131,UTI,"Universal Technical Institute, Inc.",789.86M,2.36%,334542,662.10M
+132,STKL,SunOpta Inc.,783.84M,0.59%,552165,630.30M
+133,UNFI,"United Natural Foods, Inc.",708.49M,-3.10%,609530,30.25B
+134,SPTN,SpartanNash Company,708.34M,-1.52%,277464,9.73B
+135,NUS,"Nu Skin Enterprises, Inc.",648.90M,-0.53%,731910,1.97B
+136,OTLY,Oatly Group AB,611.00M,-4.50%,1766633,783.35M
+137,ISPR,Ispire Technology Inc.,521.35M,-1.67%,38844,141.32M
+138,DAO,"Youdao, Inc.",521.12M,10.95%,160006,760.11M
+139,BYND,"Beyond Meat, Inc.",510.95M,3.80%,2341526,343.38M
+140,CVGW,"Calavo Growers, Inc.",510.82M,2.80%,425002,873.35M
+141,VTRU,Vitru Limited,488.91M,4.88%,3487,377.63M
+142,LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,480.86M,-0.62%,14875,277.76M
+143,TPB,"Turning Point Brands, Inc.",479.03M,0.99%,107096,405.39M
+144,SKIN,The Beauty Health Company,477.81M,-1.37%,2988324,399.30M
+145,NGVC,"Natural Grocers by Vitamin Cottage, Inc.",401.35M,2.15%,75302,1.16B
+146,VLGEA,"Village Super Market, Inc.",395.45M,0.69%,19529,2.20B
+147,SENEB,Seneca Foods Corporation,383.55M,-1.76%,3,1.48B
+148,SENEA,Seneca Foods Corporation,360.34M,2.36%,34235,1.48B
+149,LMNR,Limoneira Company,333.99M,-,38991,181.73M
+150,NATR,"Nature's Sunshine Products, Inc.",328.85M,-0.23%,77331,439.13M
+151,DDL,Dingdong (Cayman) Limited,318.00M,2.72%,333888,2.82B
+152,VSTA,Vasta Platform Limited,317.07M,0.52%,32808,288.01M
+153,LINC,Lincoln Educational Services Corporation,315.05M,0.40%,53954,378.07M
+154,AFRI,Forafric Global PLC,278.20M,0.10%,6307,280.40M
+155,MYND,Mynd.ai Inc,223.79M,-3.05%,8179,38.46M
+156,APEI,"American Public Education, Inc.",209.54M,2.51%,114579,600.55M
+157,FREE,"Whole Earth Brands, Inc.",204.44M,0.21%,317328,538.65M
+158,ALCO,"Alico, Inc.",203.63M,1.46%,13503,43.24M
+159,MAMA,"Mama's Creations, Inc.",188.74M,3.92%,182994,99.38M
+160,HFFG,HF Foods Group Inc.,184.66M,-,69277,1.16B
+161,QSG,QuantaSing Group Ltd,164.94M,-4.83%,44835,3.49B
+162,LWAY,"Lifeway Foods, Inc.",159.69M,3.18%,66072,153.87M
+163,STG,Sunlands Technology Group,147.10M,-0.63%,1035,302.12M
+164,ACU,Acme United Corporation,144.35M,2.10%,20919,191.50M
+165,WILC,G. Willi-Food International Ltd.,142.74M,0.11%,1063,141.13M
+166,DIT,AMCON Distributing Company,125.43M,-1.50%,161,2.62B
+167,BIG,"Big Lots, Inc.",119.64M,-3.16%,1366541,4.83B
+168,JZ,Jianzhi Education Technology Group Company Limited,118.69M,1.97%,17214,525.98M
+169,IH,iHuman Inc.,106.01M,2.09%,20130,143.60M
+170,FTLF,"FitLife Brands, Inc.",99.08M,0.66%,490,44.77M
+171,SKIL,Skillsoft Corp.,97.11M,-3.47%,18379,-
+172,BRID,Bridgford Foods Corporation,93.95M,-0.01%,507,244.86M
+173,LFVN,LifeVantage Corporation,89.18M,-0.72%,39124,210.95M
+174,ZVIA,Zevia PBC,87.76M,-1.47%,127172,166.42M
+175,VFF,"Village Farms International, Inc.",80.36M,1.51%,599394,280.84M
+176,FARM,Farmer Bros. Co.,79.45M,-6.10%,75455,381.07M
+177,AXIL,AXIL Brands Inc.,79.03M,-0.51%,2604,27.08M
+178,DTCK,Davis Commodities Limited,78.56M,-11.36%,126511,206.72M
+179,GROV,"Grove Collaborative Holdings, Inc.",73.78M,-8.02%,150581,273.46M
+180,AIU,Meta Data Limited,62.35M,7.41%,9605,32.43M
+181,BEDU,Bright Scholar Education Holdings Limited,61.24M,6.31%,6690,-
+182,AMBO,Ambow Education Holding Ltd.,60.70M,-0.47%,72701,14.68M
+183,ATPC,Agape ATP Corporation,59.37M,-,55051,1.43M
+184,AACG,ATA Creativity Global,49.61M,1.27%,13694,29.79M
+185,COE,51 Talk Online Education Group,38.44M,3.23%,2430,24.69M
+186,UG,"United-Guardian, Inc.",37.69M,-2.61%,13272,11.04M
+187,NAII,"Natural Alternatives International, Inc.",35.46M,-3.06%,16231,127.76M
+188,VWE,"Vintage Wine Estates, Inc.",33.40M,3.70%,268200,278.42M
+189,LXEH,"Lixiang Education Holding Co., Ltd.",32.53M,0.84%,405873,7.24M
+190,TWOU,"2U, Inc.",31.81M,-2.17%,2028211,945.95M
+191,GNS,Genius Group Limited,31.19M,-5.35%,1038679,22.55M
+192,YQ,17 Education & Technology Group Inc.,30.66M,-3.77%,14492,22.44M
+193,BTOG,Bit Origin Limited,29.93M,11.16%,190700,6.26M
+194,MSS,Maison Solutions Inc.,29.14M,0.68%,38124,57.34M
+195,SBEV,"Splash Beverage Group, Inc.",28.04M,-4.75%,171361,20.95M
+196,WVVI,"Willamette Valley Vineyards, Inc.",25.32M,-1.76%,1438,39.77M
+197,RMCF,"Rocky Mountain Chocolate Factory, Inc.",25.07M,-7.18%,18289,26.30M
+198,YGF,"YanGuFang International Group Co., Ltd.",23.47M,-,4097,36.08M
+199,DDC,DDC Enterprise Limited,22.86M,-7.69%,35480,28.19M
+200,LOCL,Local Bounti Corporation,22.27M,-0.46%,44536,27.33M
+201,FEDU,Four Seasons Education (Cayman) Inc.,20.77M,11.99%,5319,11.33M
+202,PLAG,Planet Green Holdings Corp.,19.82M,4.84%,37456,24.26M
+203,RGF,"The Real Good Food Company, Inc.",19.68M,-4.83%,942085,156.38M
+204,SANW,S&W Seed Company,19.57M,-0.22%,94622,68.01M
+205,AAGR,African Agriculture Holdings Inc.,19.49M,24.11%,2680424,1.65M
+206,SDOT,Sadot Group Inc.,17.68M,1.86%,122914,708.48M
+207,TCTM,TCTM Kids IT Education Inc.,17.14M,3.53%,72826,293.63M
+208,MTEX,"Mannatech, Incorporated",17.04M,-2.73%,594,133.60M
+209,STKH,Steakholder Foods Ltd.,16.46M,0.50%,133673,-
+210,NCRA,"Nocera, Inc.",15.63M,9.02%,1574,24.07M
+211,BRFH,"Barfresh Food Group, Inc.",15.60M,-,4150,7.64M
+212,EDTK,Skillful Craftsman Education Technology Limited,14.99M,-5.35%,56817,5.52M
+213,PAVS,Paranovus Entertainment Technology Ltd.,13.94M,-6.00%,2039,51.46M
+214,EEIQ,EpicQuest Education Group International Limited,12.70M,-0.99%,891,5.71M
+215,GSUN,Golden Sun Education Group Limited,12.41M,-25.82%,394863,6.16M
+216,PETZ,"TDH Holdings, Inc.",12.18M,-,34712,3.20M
+217,TKLF,"Yoshitsu Co., Ltd",11.82M,-6.79%,74716,166.27M
+218,VINE,"Fresh Vine Wine, Inc.",11.53M,-6.04%,64823,1.83M
+219,BOF,BranchOut Food Inc.,9.63M,-3.36%,23919,1.37M
+220,GV,Visionary Education Technology Holdings Group Inc.,9.45M,-4.81%,56225,8.43M
+221,LSF,"Laird Superfood, Inc.",8.42M,10.83%,137080,33.99M
+222,WAFU,Wah Fu Education Group Limited,8.25M,2.14%,15510,10.69M
+223,AQB,"AquaBounty Technologies, Inc.",8.23M,-3.26%,42344,2.37M
+224,LQR,LQR House Inc.,8.07M,1.27%,91656,880.44K
+225,BTCT,BTC Digital Ltd.,7.59M,-0.56%,15049,-20.57M
+226,JVA,"Coffee Holding Co., Inc.",7.54M,7.25%,75923,68.17M
+227,BON,Bon Natural Life Limited,6.24M,-1.90%,29758,29.52M
+228,BRSH,Bruush Oral Care Inc.,6.15M,-14.12%,7033009,-
+229,KAVL,"Kaival Brands Innovations Group, Inc.",6.06M,1.22%,7452,13.09M
+230,FAMI,"Farmmi, Inc.",5.94M,-6.64%,129935,110.36M
+231,XXII,"22nd Century Group, Inc.",5.91M,-4.44%,1264747,82.41M
+232,BTTR,Better Choice Company Inc.,4.28M,5.84%,662318,42.16M
+233,SNAX,"Stryve Foods, Inc.",3.56M,0.79%,10076,20.23M
+234,CLEU,China Liberal Education Holdings Limited,3.50M,1.46%,78921,17.89M
+235,TANH,Tantech Holdings Ltd,2.35M,10.10%,146393,46.21M
+236,EDBL,Edible Garden AG Incorporated,2.20M,-10.65%,71041,13.04M
+237,EAST,"Eastside Distilling, Inc.",1.92M,-1.27%,64720,10.81M
+238,NUZE,"NuZee, Inc.",1.83M,-,19781,3.35M
+239,GNLN,"Greenlane Holdings, Inc.",1.83M,8.67%,116460,77.34M
+240,BSFC,Blue Star Foods Corp.,1.80M,-3.14%,1278163,7.17M
+241,AGRI,AgriFORCE Growing Systems Ltd.,837.78K,-3.75%,648738,-
