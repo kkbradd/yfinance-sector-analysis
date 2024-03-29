@@ -8,8 +8,11 @@ The project is developed using the Python programming language and various libra
 ##Technologies Used:
 
 -Python
+
 -Pandas
+
 -Scikit-learn
+
 -Yahoo Finance API
 
 ## Usage
